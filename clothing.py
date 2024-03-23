@@ -11,4 +11,4 @@ class Clothing:
         return f'clothing(colour={self.colour}, material={self.material}, size={self.size})'
 
     def __str__(self) -> str:
-        return f'This {self.material} is {self.colour} and is {self.size}.'
+        return f'This {self.material} is {self.colour} and is {self.size}. '
