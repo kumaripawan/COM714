@@ -1,5 +1,6 @@
 from enum import Enum
 
+
 class ClothingSize(Enum):
     X_SMALL = "extra small"
     SMALL = "small"
